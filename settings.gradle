@@ -1,0 +1,2 @@
+rootProject.name = "InstagramApp_UIAvancada"
+include ':app'
