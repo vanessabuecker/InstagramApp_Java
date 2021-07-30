@@ -1,10 +1,12 @@
-package com.vbuecker.instagramapp_uiavancada;
+package com.vbuecker.instagramapp_uiavancada.login.presentation;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity {
+import com.vbuecker.instagramapp_uiavancada.R;
+
+public class LoginActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
