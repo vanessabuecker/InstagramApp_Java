@@ -16,4 +16,6 @@
     <color name="blue_enable">#3897F0</color>
 
     <color name="gray_text">#999999</color>
+    <color name="red">#FF0000</color>
+    <color name="green_darker"></color>
 </resources>
